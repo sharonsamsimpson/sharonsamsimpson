@@ -7,7 +7,7 @@
 
 <samp> I am currently Pursuing my Masters in **Data Science** </samp> <br/>
 <samp> As an aspiring Data Scientist, interested in working on Machine Learning, Deep Learning, Databases and currently learning new things. </samp> <br />
-<samp> Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Karaoke**, **Music**, **Photography** to some whacky ones like **playing chess**. </samp> <br/>
+<samp> Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Karaoke**, **Music** to **Photography**. </samp> <br/>
 
 
 ## 🛠 Tech stack
