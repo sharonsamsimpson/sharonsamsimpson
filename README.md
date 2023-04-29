@@ -1,6 +1,6 @@
 ### Hlo folks 👋 I'm
 
-![sharonsamsimpson](https://github.com/sharonsamsimpson/sharonsamsimpson/sss.png)
+![sharonsamsimpson](https://github.com/sharonsamsimpson/sharonsamsimpson/blob/main/sss.png)
 
 
 ## 😎 About me
@@ -23,6 +23,8 @@
 <span><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="50" /> </span>
 <span><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="50" /> </span>
 <span><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="50" /> </span>
+<span><img src="https://worldvectorlogo.com/logo/tableau-logo-1" height="50" /> </span>
+
 <span><img src="https://github.com/detain/svg-logos/blob/master/svg/tableau-logo.svg" height="50" /> </span>
 <span><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" height="50" /> </span>
 <span><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="50" /> </span>
@@ -32,5 +34,5 @@
 <span><img src="https://www.vectorlogo.zone/logos/cloudera/cloudera-ar21.svg" height="50" /> </span>
 <span><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" height="50" /> </span>
 
-![sharonsamsimpson](https://github.com/sharonsamsimpson/sharonsamsimpson/wave.svg)
+![end](https://github.com/sharonsamsimpson/sharonsamsimpson/blob/main/wave.svg)
 
