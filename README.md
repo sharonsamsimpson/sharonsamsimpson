@@ -1,6 +1,6 @@
 ### Hlo folks 👋 I'm
 
-![sharonsamsimpson](https://github.com/sharonsamsimpson/sharonsamsimpson/blob/main/sss.png)
+![sharonsamsimpson](https://github.com/sharonsamsimpson/sharonsamsimpson/sss.png)
 
 
 ## 😎 About me
@@ -31,4 +31,6 @@
 <span><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" height="50" /> </span>
 <span><img src="https://www.vectorlogo.zone/logos/cloudera/cloudera-ar21.svg" height="50" /> </span>
 <span><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" height="50" /> </span>
-<img src="https://github.com/yogesh7401/yogesh7401/blob/main/wave.svg" width="100%"/>
+
+![sharonsamsimpson](https://github.com/sharonsamsimpson/sharonsamsimpson/wave.svg)
+
