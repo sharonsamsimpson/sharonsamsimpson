@@ -5,9 +5,12 @@
 
 ## 😎 About me
 
-<samp> I recently completed my Masters in **Data Science** @ Bishop Heber College </samp> <br/>
-<samp> As an aspiring Data Scientist, I'm interested in solving business problems that requires data querying, data analytics, data modeling and data visualization </samp> <br/>
+<samp> I recently completed my Masters in **Data Science** specialization @ Bishop Heber College... </samp> <br/>
+
+<samp> As an aspiring Data Scientist, I'm interested in solving business problems that requires **data querying**, **data analytics**, **data modeling** and **data visualization** !!! </samp> <br/>
+
 <samp> And I'm currently learning new things... </samp> <br />
+
 <samp> Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Karaoke**, **Music** to **Photography**. </samp> <br/>
 
 
